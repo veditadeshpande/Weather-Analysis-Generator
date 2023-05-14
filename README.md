@@ -11,7 +11,7 @@ Additional tools used to analyze data include:
 1. HiveUI.py
 2. Graphical.py
 
-Data is stored in a MySQL Server.
+Data is stored in a MySQL Server. Sample Dataset is shared in a separate folder.
 
 Fully distributed Hadoop installation is performed for which the configuration files are in the Hadoop Configuration files.
 Apache Hive is also installed, and configuration files are shared in the Hive Configuration files.
