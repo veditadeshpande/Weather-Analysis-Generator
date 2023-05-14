@@ -33,4 +33,4 @@ OpenSSH
 Oracle Virtualbox
 Scala
 
-Please look at the Installation guide for information on how to set up the application.
+Please look at the Project Report document for information on how to set up the application.
