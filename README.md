@@ -34,3 +34,10 @@ Oracle Virtualbox
 Scala
 
 Please look at the Project Report document for information on how to set up the application.
+
+
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/95f5f267-817d-4f97-90c2-801eb3e053fd">
+
+Project Report for reference : 
+
+[ADBMS Doc .pdf](https://github.com/user-attachments/files/16741162/ADBMS.Doc.pdf)
